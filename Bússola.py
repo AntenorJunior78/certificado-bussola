@@ -1,4 +1,4 @@
-# Importar as bibliotecas necessárias
+
 from tkinter.ttk import*  # Imports all widgets and advanced styles from the ttk (Themed Tkinter) library.
 import customtkinter  # Imports the customtkinter module, which may contain customizations or custom widgets.
 import time  # Imports the time module, used for pausing execution and creating delay effects.
